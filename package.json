@@ -1,0 +1,11 @@
+{
+  "name": "eventnode",
+  "version": "1.0.0",
+  "description": "Node.js event base, CQRS, DDD, tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JT Turner <jtwebman@gmail.com> (https://jtwebman.com)",
+  "license": "MIT"
+}
